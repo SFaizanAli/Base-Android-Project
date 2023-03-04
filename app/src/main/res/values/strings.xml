@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseAndroidProject</string>
+
+    <string name="post_name">Post App!</string>
+    <string name="no_result">Seems like there\'s nothing matching</string>
+
+
+</resources>
